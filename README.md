@@ -42,6 +42,6 @@ punctuate：分词后的文件
 sub：原始字幕文件
 ```
 
-![](media/15612809491874/15612825612411.jpg)
+![](https://vermouth2018.oss-cn-qingdao.aliyuncs.com/product/15612825612411.jpg)
 
 
