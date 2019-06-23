@@ -16,13 +16,13 @@ BODY = """
     font-family: Helvetica，Arial;
     font-weight: 300;
     font-style: normal;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 1.58;
     letter-spacing: -.003em;">
     
 <h3 style="text-align: center;margin-bottom: 20px">{article_title}</h3>
 <div style="margin-top: 20px;margin-bottom: 10px">
-    <img src="https://vermouth2018.oss-cn-qingdao.aliyuncs.com/product/WX20190623-181707%402x.png"
+    <img src="https://vermouth2018.oss-cn-qingdao.aliyuncs.com/product/WX20190623-181707%402x.png?x-oss-process=style/xxx"
                                     alt="pycon2017" width="100%" height="100%">
 </div>
 {all_part}
